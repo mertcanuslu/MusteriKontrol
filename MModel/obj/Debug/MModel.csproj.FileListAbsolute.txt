@@ -1,0 +1,5 @@
+C:\Users\Can\source\repos\MusteriKontrol\MModel\bin\Debug\MModel.dll
+C:\Users\Can\source\repos\MusteriKontrol\MModel\bin\Debug\MModel.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MModel\obj\Debug\MModel.dll
+C:\Users\Can\source\repos\MusteriKontrol\MModel\obj\Debug\MModel.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MModel\obj\Debug\MModel.csprojAssemblyReference.cache

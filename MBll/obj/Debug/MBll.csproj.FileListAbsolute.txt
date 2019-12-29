@@ -1,0 +1,16 @@
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MBll.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MBll.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MBll\obj\Debug\MBll.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\obj\Debug\MBll.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MBll.dll.config
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\EntityFramework.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MDal.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MModel.dll
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MDal.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MDal.dll.config
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\MModel.pdb
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\EntityFramework.xml
+C:\Users\Can\source\repos\MusteriKontrol\MBll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Can\source\repos\MusteriKontrol\MBll\obj\Debug\MBll.csprojAssemblyReference.cache
+C:\Users\Can\source\repos\MusteriKontrol\MBll\obj\Debug\MBll.csproj.CopyComplete
